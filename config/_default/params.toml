@@ -1,0 +1,102 @@
+i_am_a_sponsor = true
+
+[power_ups]
+hide_published_with = true
+hide_generator = true
+
+[appearance]
+theme_day = "ocean"
+theme_night = "minimal"
+font = "native"
+font_size = "L"
+
+[marketing.seo]
+site_type = "Person"
+local_business_type = ""
+org_name = ""
+description = "UBC Computer Science and Physics student with interests in machine learning, numerical methods, and software engineering."
+twitter = ""
+
+[marketing.analytics]
+google_analytics = ""
+baidu_tongji = ""
+
+[marketing.verification]
+google = ""
+baidu = ""
+
+[header.navbar]
+enable = true
+align = "l"
+show_logo = true
+show_language = false
+show_day_night = true
+show_search = true
+highlight_active_link = true
+
+[footer.copyright]
+notice = "© {year} Alexander Steele."
+
+  [footer.copyright.license]
+  enable = false
+  allow_derivatives = false
+  share_alike = true
+  allow_commercial = false
+
+[locale]
+date_format = "January 2006"
+time_format = "03:04"
+address_format = "en-ca"
+
+[features.syntax_highlighter]
+enable = true
+extra_languages = [ "r", "latex" ]
+
+[features.math]
+enable = true
+
+[features.privacy_pack]
+enable = false
+
+[features.repository]
+url = "https://github.com/ADSteele916/<repository>"
+content_dir = "content"
+branch = "master"
+
+[features.avatar]
+gravatar = false
+shape = "circle"
+
+[features.comment]
+provider = ""
+
+  [features.comment.disqus]
+  shortname = ""
+  show_count = false
+
+  [features.comment.commento]
+  url = ""
+
+[features.search]
+provider = "wowchemy"
+
+  [features.search.algolia]
+  app_id = ""
+  api_key = ""
+  index_name = ""
+  show_logo = false
+
+[features.map]
+provider = ""
+api_key = ""
+zoom = 15
+
+[extensions.cms]
+branch = "master"
+local_backend = false
+
+[extensions.isotope]
+enable = true
+
+[extensions.academicons]
+enable = true

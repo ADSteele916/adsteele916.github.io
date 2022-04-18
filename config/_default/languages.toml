@@ -1,0 +1,7 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the lan
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+[en]
+languageCode = "en-us"
