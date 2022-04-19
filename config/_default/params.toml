@@ -18,12 +18,13 @@ description = "UBC Computer Science and Physics student with interests in machin
 twitter = ""
 
 [marketing.analytics]
-google_analytics = ""
+google_analytics = "G-71FMFPZ67J"
 baidu_tongji = ""
 
 [marketing.verification]
 google = ""
 baidu = ""
+bing = ""
 
 [header.navbar]
 enable = true
