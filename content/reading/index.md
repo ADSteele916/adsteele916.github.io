@@ -13,7 +13,7 @@ date = "2022-03-14"
 In my free time, I enjoy reading books, primarily (but, by no means, exclusively) fantasy, science fiction, and historical non-fiction. Here are some of my favourites, in no particular order:
 
 * J.R.R. Tolkien's legendarium (*The Hobbit*, *The Lord of the Rings*, *The Silmarillion*, *The Children of Húrin*, *Beren and Lúthien*, *The Fall of Gondolin*, and *Unfinished Tales of Númenor and Middle-Earth*)
-* *The Wheel of Time* series by Robert Jordan
+* *The Wheel of Time* series, by Robert Jordan
 * Frank Herbert's *Dune* Saga
 * Andy Weir's works (*The Martian*, *Artemis*, and *Project Hail Mary*)
 * *Animal Farm* and *Nineteen Eighty-Four*, by George Orwell
@@ -33,7 +33,6 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *Chapterhouse: Dune*, by Frank Herbert
 * *The Nature of Middle-Earth*, by J.R.R. Tolkien, edited by Carl F. Hostetter
 * *The War for Gaul*, by Julius Caesar, translated by James O'Donnell
 * *My Life*, by Bill Clinton
