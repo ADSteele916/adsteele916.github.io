@@ -149,7 +149,7 @@
 &lt;/ul></description></item><item><title>Project Fëanor</title><link>https://alexdsteele.com/project/project-feanor/</link><pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate><guid>https://alexdsteele.com/project/project-feanor/</guid><description>&lt;p>Project Fëanor was my term project for PHYS 319: Electronics Laboratory. I designed a quadcopter using mostly 3D-printed parts and used the MSP430 microcontroller as a flight controller, while working within its limited 512 bytes of RAM and 16 kilobytes of memory. To control the four motors, I wrote C code that interfaced with an accelerometer over I2C and accepted commands from a laptop over UART.&lt;/p></description></item><item><title>Reading</title><link>https://alexdsteele.com/reading/</link><pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate><guid>https://alexdsteele.com/reading/</guid><description>&lt;p>In my free time, I enjoy reading books, primarily (but, by no means, exclusively) fantasy, science fiction, and historical non-fiction. Here are some of my favourites, in no particular order:&lt;/p>
 &lt;ul>
 &lt;li>J.R.R. Tolkien&amp;rsquo;s legendarium (&lt;em>The Hobbit&lt;/em>, &lt;em>The Lord of the Rings&lt;/em>, &lt;em>The Silmarillion&lt;/em>, &lt;em>The Children of Húrin&lt;/em>, &lt;em>Beren and Lúthien&lt;/em>, &lt;em>The Fall of Gondolin&lt;/em>, and &lt;em>Unfinished Tales of Númenor and Middle-Earth&lt;/em>)&lt;/li>
-&lt;li>&lt;em>The Wheel of Time&lt;/em> series by Robert Jordan&lt;/li>
+&lt;li>&lt;em>The Wheel of Time&lt;/em> series, by Robert Jordan&lt;/li>
 &lt;li>Frank Herbert&amp;rsquo;s &lt;em>Dune&lt;/em> Saga&lt;/li>
 &lt;li>Andy Weir&amp;rsquo;s works (&lt;em>The Martian&lt;/em>, &lt;em>Artemis&lt;/em>, and &lt;em>Project Hail Mary&lt;/em>)&lt;/li>
 &lt;li>&lt;em>Animal Farm&lt;/em> and &lt;em>Nineteen Eighty-Four&lt;/em>, by George Orwell&lt;/li>
@@ -169,7 +169,6 @@
 &lt;/ul>
 &lt;p>I&amp;rsquo;m currently reading:&lt;/p>
 &lt;ul>
-&lt;li>&lt;em>Chapterhouse: Dune&lt;/em>, by Frank Herbert&lt;/li>
 &lt;li>&lt;em>The Nature of Middle-Earth&lt;/em>, by J.R.R. Tolkien, edited by Carl F. Hostetter&lt;/li>
 &lt;li>&lt;em>The War for Gaul&lt;/em>, by Julius Caesar, translated by James O&amp;rsquo;Donnell&lt;/li>
 &lt;li>&lt;em>My Life&lt;/em>, by Bill Clinton&lt;/li>
