@@ -34,5 +34,5 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 I'm currently reading:
 
 * *The Nature of Middle-Earth*, by J.R.R. Tolkien, edited by Carl F. Hostetter
-* *The War for Gaul*, by Julius Caesar, translated by James O'Donnell
+* *Why Nations Fail*, by Daron Acemoglu and James A. Robinson
 * *My Life*, by Bill Clinton
