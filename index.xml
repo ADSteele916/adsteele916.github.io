@@ -3,9 +3,6 @@
 &lt;h3 id="data-structures-and-algorithms">Data Structures and Algorithms&lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>Koffman and Wolfgang&amp;rsquo;s &lt;em>Objects, Abstraction, Data Structures and Design: Using C++&lt;/em>&lt;/p>
-&lt;/li>
-&lt;li>
 &lt;p>Kleinberg and Tardos&amp;rsquo; &lt;em>Algorithm Design&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -43,10 +40,25 @@
 &lt;p>Robert &amp;ldquo;Uncle Bob&amp;rdquo; Martin, the author of &lt;em>Clean Code&lt;/em> and &lt;em>Clean Architecture&lt;/em> gave &lt;a href="https://www.youtube.com/watch?v=7EmboKQH8lM&amp;amp;list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj" target="_blank" rel="noopener">a series of excellent talks&lt;/a> on software development and project management that I would highly recommend.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Raymond Hettinger&amp;rsquo;s PyCon 2015 talk &lt;a href="https://www.youtube.com/watch?v=wf-BqAjZb8M" target="_blank" rel="noopener">&amp;ldquo;Beyond PEP 8 — Best practices for beautiful intelligible code&amp;rdquo;&lt;/a>&lt;/p>
+&lt;p>Even as someone who has never played the game and frankly has little interest in game development, the &lt;a href="https://www.factorio.com/blog/" target="_blank" rel="noopener">&lt;em>Factorio&lt;/em> development blog&lt;/a> has many interesting articles on the development process. I particularly enjoyed reading their articles on optimizations they made to allow the game to run as well as it does.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="programming-languages">Programming Languages&lt;/h3>
+&lt;h4 id="python">Python&lt;/h4>
+&lt;ul>
+&lt;li>Raymond Hettinger&amp;rsquo;s PyCon 2015 talk &lt;a href="https://www.youtube.com/watch?v=wf-BqAjZb8M" target="_blank" rel="noopener">&amp;ldquo;Beyond PEP 8 — Best practices for beautiful intelligible code&amp;rdquo;&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="cc">C/C++&lt;/h4>
+&lt;ul>
+&lt;li>Koffman and Wolfgang&amp;rsquo;s &lt;em>Objects, Abstraction, Data Structures and Design: Using C++&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h5 id="build-systems">Build Systems&lt;/h5>
+&lt;ul>
+&lt;li>
+&lt;p>Craig Scott&amp;rsquo;s &lt;a href="https://crascit.com/professional-cmake/" target="_blank" rel="noopener">&lt;em>Professional CMake: A Practical Guide&lt;/em>&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Even as someone who has never played the game and frankly has little interest in game development, the &lt;a href="https://www.factorio.com/blog/" target="_blank" rel="noopener">&lt;em>Factorio&lt;/em> development blog&lt;/a> has many interesting articles on the development process. I particularly enjoyed reading their articles on optimizations they made to allow the game to run as well as it does.&lt;/p>
+&lt;p>&lt;a href="https://cliutils.gitlab.io/modern-cmake/" target="_blank" rel="noopener">&lt;em>An Introduction to Modern CMake&lt;/em>&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="mathematics">Mathematics&lt;/h2>
