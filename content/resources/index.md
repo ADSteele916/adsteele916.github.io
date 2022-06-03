@@ -12,8 +12,6 @@ I'm asked about how I learned about various topics in my majors with some regula
 
 ### Data Structures and Algorithms
 
-* Koffman and Wolfgang's *Objects, Abstraction, Data Structures and Design: Using C++*
-
 * Kleinberg and Tardos' *Algorithm Design*
 
 * McDowell's *Cracking the Coding Interview*
@@ -40,9 +38,23 @@ I'm asked about how I learned about various topics in my majors with some regula
 
 * Robert "Uncle Bob" Martin, the author of *Clean Code* and *Clean Architecture* gave [a series of excellent talks](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) on software development and project management that I would highly recommend.
 
+* Even as someone who has never played the game and frankly has little interest in game development, the [*Factorio* development blog](https://www.factorio.com/blog/) has many interesting articles on the development process. I particularly enjoyed reading their articles on optimizations they made to allow the game to run as well as it does.
+
+### Programming Languages
+
+#### Python
+
 * Raymond Hettinger's PyCon 2015 talk ["Beyond PEP 8 — Best practices for beautiful intelligible code"](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
-* Even as someone who has never played the game and frankly has little interest in game development, the [*Factorio* development blog](https://www.factorio.com/blog/) has many interesting articles on the development process. I particularly enjoyed reading their articles on optimizations they made to allow the game to run as well as it does.
+#### C/C++
+
+* Koffman and Wolfgang's *Objects, Abstraction, Data Structures and Design: Using C++*
+
+##### Build Systems
+
+* Craig Scott's [*Professional CMake: A Practical Guide*](https://crascit.com/professional-cmake/)
+
+* [*An Introduction to Modern CMake*](https://cliutils.gitlab.io/modern-cmake/)
 
 ## Mathematics
 
