@@ -33,6 +33,6 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *Why Nations Fail*, by Daron Acemoglu and James A. Robinson
-* *Ender's Shadow*, by Orson Scott Card
-* *The Courage to Act*, by Ben Bernanke
+* *The Letters of J.R.R Tolkien*, edited by Humphrey Carpenter
+* *The First World War: A Complete History*, by Martin Gilbert
+* *Foundation*, by Isaac Asimov
