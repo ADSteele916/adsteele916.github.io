@@ -15,15 +15,15 @@
 &lt;p>Our implementation uses OpenAI&amp;rsquo;s Python API and a Flask backend. We considered using Django but felt that it was unncessarily heavy for our use case.&lt;/p>
 &lt;h2 id="running">Running&lt;/h2>
 &lt;p>Unfortunately, OpenAI doesn&amp;rsquo;t allow projects using GPT-3 to be published without approval, which takes around two weeks. We are, however, allowed to share pre-generated results, as we did in our demonstration video. Additionally, if you have an API key, you are free to run our code and verify our results. Simply clone the repository, add your key as an environment variable named &lt;code>OPENAI_API_KEY&lt;/code>, and run &lt;code>comparisons/comparison_functions.py&lt;/code>. Here are the expected results:&lt;/p>
-&lt;pre tabindex="0">&lt;code>fibonacci/starter.py: (105.779, 48.065, -57.714); Passing = False
-fibonacci/submission_random_garbage.py: (4.357, 3.657, -0.7000000000000002); Passing = False
-fibonacci/submission_wrong_function.py: (25.971, 18.292, -7.6789999999999985); Passing = False
-fibonacci/submission_recur.py: (25.715, 33.526, 7.8110000000000035); Passing = True
-fibonacci/submission_invalid.py: (18.612, 37.666, 19.054); Passing = True
-fibonacci/submission_indent_error.py: (11.573, 60.106, 48.533); Passing = True
-fibonacci/solution.py: (10.018, 57.529, 47.511); Passing = True
-bintree/starter.py: (14.276, 7.852, -6.4239999999999995); Passing = False
-bintree/submission_iterative.py: (1.316, 3.952, 2.636); Passing = True
-bintree/submission_alternative.py: (3.74, 5.479, 1.7389999999999999); Passing = True
-bintree/solution.py: (1.539, 7.248, 5.7090000000000005); Passing = True
-&lt;/code>&lt;/pre>&lt;p>As we can see, handing in either starter file fails, as does typing random Python code or solving the wrong problem. However, all of the partial attempts at a solution get credit, which is what we want.&lt;/p></description></item><item><title>UBC Course Monitor</title><link>https://alexdsteele.com/project/ubc-course-monitor/</link><pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate><guid>https://alexdsteele.com/project/ubc-course-monitor/</guid><description>&lt;p>UBC Course Monitor is a web application that I built to help fellow UBC students find open seats in courses they want to take. Users can sign up to monitor any course section publically listed on the University of British Columbia&amp;rsquo;s Student Services Centre. Once they add the course to their list, they will receive an email notification when a seat opens up. The backend of the site was built using the Django framework and uses a Celery queue to do background monitoring. The application is deployed on Heroku and uses a PostgreSQL database to manage users and courses.&lt;/p></description></item></channel></rss>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">fibonacci/starter.py: (105.779, 48.065, -57.714); Passing = False
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/submission_random_garbage.py: (4.357, 3.657, -0.7000000000000002); Passing = False
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/submission_wrong_function.py: (25.971, 18.292, -7.6789999999999985); Passing = False
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/submission_recur.py: (25.715, 33.526, 7.8110000000000035); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/submission_invalid.py: (18.612, 37.666, 19.054); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/submission_indent_error.py: (11.573, 60.106, 48.533); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">fibonacci/solution.py: (10.018, 57.529, 47.511); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">bintree/starter.py: (14.276, 7.852, -6.4239999999999995); Passing = False
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">bintree/submission_iterative.py: (1.316, 3.952, 2.636); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">bintree/submission_alternative.py: (3.74, 5.479, 1.7389999999999999); Passing = True
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">bintree/solution.py: (1.539, 7.248, 5.7090000000000005); Passing = True
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>As we can see, handing in either starter file fails, as does typing random Python code or solving the wrong problem. However, all of the partial attempts at a solution get credit, which is what we want.&lt;/p></description></item><item><title>UBC Course Monitor</title><link>https://alexdsteele.com/project/ubc-course-monitor/</link><pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate><guid>https://alexdsteele.com/project/ubc-course-monitor/</guid><description>&lt;p>UBC Course Monitor is a web application that I built to help fellow UBC students find open seats in courses they want to take. Users can sign up to monitor any course section publically listed on the University of British Columbia&amp;rsquo;s Student Services Centre. Once they add the course to their list, they will receive an email notification when a seat opens up. The backend of the site was built using the Django framework and uses a Celery queue to do background monitoring. The application is deployed on Heroku and uses a PostgreSQL database to manage users and courses.&lt;/p></description></item></channel></rss>
