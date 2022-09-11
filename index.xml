@@ -31,7 +31,13 @@
 &lt;p>Russel and Norvig&amp;rsquo;s &lt;em>Artificial Intelligence: A Modern Approach&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
+&lt;p>Sutton and Barto&amp;rsquo;s &lt;a href="http://incompleteideas.net/book/the-book-2nd.html" target="_blank" rel="noopener">Reinforcement Learning: An Introduction&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>UBC&amp;rsquo;s machine learning courses have made their materials &lt;a href="https://github.com/UBC-CS" target="_blank" rel="noopener">publically available on GitHub&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://d2l.ai/index.html" target="_blank" rel="noopener">&lt;em>Dive into Deep Learning&lt;/em>&lt;/a> is a fairly comprehensive overview of deep neural networks written by a team of Amazon researchers.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="software-engineering">Software Engineering&lt;/h3>
@@ -46,7 +52,12 @@
 &lt;h3 id="programming-languages">Programming Languages&lt;/h3>
 &lt;h4 id="python">Python&lt;/h4>
 &lt;ul>
-&lt;li>Raymond Hettinger&amp;rsquo;s PyCon 2015 talk &lt;a href="https://www.youtube.com/watch?v=wf-BqAjZb8M" target="_blank" rel="noopener">&amp;ldquo;Beyond PEP 8 — Best practices for beautiful intelligible code&amp;rdquo;&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>Raymond Hettinger&amp;rsquo;s PyCon 2015 talk &lt;a href="https://www.youtube.com/watch?v=wf-BqAjZb8M" target="_blank" rel="noopener">&amp;ldquo;Beyond PEP 8 — Best practices for beautiful intelligible code&amp;rdquo;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://docs.quantifiedcode.com/python-anti-patterns/" target="_blank" rel="noopener">&lt;em>The Little Book of Python Anti-Patterns&lt;/em>&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;h4 id="cc">C/C++&lt;/h4>
 &lt;ul>
