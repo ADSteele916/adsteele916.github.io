@@ -31,10 +31,13 @@ timeout = 600_000
 ############################
 
 [[module.imports]]
-path = "wowchemy-cms"
+path = "modules/wowchemy-plugin-netlify"
 
 [[module.imports]]
-path = "wowchemy"
+path = "modules/wowchemy-plugin-netlify-cms"
+
+[[module.imports]]
+path = "modules/wowchemy"
 
 [permalinks]
 event = "/talk/:slug/"
