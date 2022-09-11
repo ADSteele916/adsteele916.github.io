@@ -32,7 +32,11 @@ I'm asked about how I learned about various topics in my majors with some regula
 
 * Russel and Norvig's *Artificial Intelligence: A Modern Approach*
 
+* Sutton and Barto's [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+
 * UBC's machine learning courses have made their materials [publically available on GitHub](https://github.com/UBC-CS)
+
+* [*Dive into Deep Learning*](https://d2l.ai/index.html) is a fairly comprehensive overview of deep neural networks written by a team of Amazon researchers.
 
 ### Software Engineering
 
@@ -45,6 +49,8 @@ I'm asked about how I learned about various topics in my majors with some regula
 #### Python
 
 * Raymond Hettinger's PyCon 2015 talk ["Beyond PEP 8 — Best practices for beautiful intelligible code"](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+* [*The Little Book of Python Anti-Patterns*](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 #### C/C++
 
