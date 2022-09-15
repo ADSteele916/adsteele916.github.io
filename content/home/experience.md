@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
+title = "Numerical Methods Research Assistant"
+company = "University of British Columbia"
+company_url = "https://www.cs.ubc.ca/"
+location = "Vancouver, British Columbia"
+date_start = "2022-05-09"
+date_end = "2022-08-26"
+description = """
+  * Developed large-scale simulation software for solving coupled partial differential equations resulting from multiphysics problems using **MATLAB** and **C++**.
+  * Applied knowledge of vector calculus, linear algebra, and physics to optimize the performance of simulations with millions of degrees of freedom."""
+[[experience]]
 title = "Software Engineer Intern"
 company = "Kepler Communications"
 company_url = "https://kepler.space/"

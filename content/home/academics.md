@@ -14,13 +14,13 @@ subtitle = ""
 
 [[feature]]
 name = "Computer Science Average"
-description = "96.7%"
+description = "96.6%"
 icon_pack = "fas"
 icon = "desktop"
 
 [[feature]]
 name = "Physics Average"
-description = "96.0%"
+description = "96.2%"
 icon_pack = "fas"
 icon = "atom"
 # Uncomment to use emoji icons.
