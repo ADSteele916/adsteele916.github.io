@@ -1,9 +1,9 @@
 +++
 title = "Reflections on Honours Linear Algebra"
-subtitle = ""
-summary = ""
+subtitle = "An After Action Report on MATH 223"
+summary = "An After Action Report on MATH 223"
 authors = []
-tags = []
+tags = ["Academics", "Productivity"]
 categories = []
 date = "2020-12-30"
 lastmod = "2020-12-30"
@@ -18,7 +18,7 @@ preview_only = false
 projects = []
 +++
 
-A week or so after my exams finish each term, I find it helpful to write up a brief after-action report of sorts for each of my courses, in which I reflect on how effective my various studying practices were. They're usually each just a couple of pages of bullet points or, at best, disconnected paragraphs that I use when planning out how I will spend my time in future terms. However, in addition to all the expected ups and downs of online learning, my most recent term included my largest upward mark swing in a specific subject so far at UBC. Ergo, I thought it appropriate to formalize my notes on the factors contributing to my performance in MATH 223: Honours Linear Algebra, in an attempt to learn all available lessons from my experiences this term and formalize a strategy to utilize them going forward.
+A week or so after my exams finish each term, I find it helpful to write up a brief after action report of sorts for each of my courses, in which I reflect on how effective my various studying practices were. They're usually each just a couple of pages of bullet points or, at best, disconnected paragraphs that I use when planning out how I will spend my time in future terms. However, in addition to all the expected ups and downs of online learning, my most recent term included my largest upward mark swing in a specific subject so far at UBC. Ergo, I thought it appropriate to formalize my notes on the factors contributing to my performance in MATH 223: Honours Linear Algebra, in an attempt to learn all available lessons from my experiences this term and formalize a strategy to utilize them going forward.
 
 ## Background
 

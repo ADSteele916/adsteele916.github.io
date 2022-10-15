@@ -1,9 +1,9 @@
 +++
-title = "How fast would one have to throw a baseball in order to replicate a nuclear blast?"
-subtitle = ""
-summary = "A brief dive into the process of designing and testing a Fermi estimation question for UBC's Physics Olympics"
+title = "How Fast Would One Have To Throw a Baseball in Order To Replicate a Nuclear Blast?"
+subtitle = "A Brief Dive Into the Process of Designing and Testing a Fermi Estimation Question for UBC’s Physics Olympics"
+summary = "A Brief Dive Into the Process of Designing and Testing a Fermi Estimation Question for UBC’s Physics Olympics"
 authors = []
-tags = []
+tags = ["Fermi Questions", "Fun", "Physics"]
 categories = []
 date = "2022-03-06"
 lastmod = "2022-03-06"
