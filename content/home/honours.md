@@ -23,6 +23,28 @@ date_format = "January 2006"
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 [[item]]
+title = "Computer Science Scholarship"
+date_end = ""
+date_start = "2022-10-14"
+description = 'Received "on the recommendation of the Department of Computer Science, largely on the basis of academic standing."'
+organization = "UBC Department of Computer Science"
+organization_url = "https://www.cs.ubc.ca/"
+url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/department-computer-science/4343"
+certificate_url = ""
+
+
+[[item]]
+title = "Dean and Kitty Toye Scholarship in Science"
+date_end = ""
+date_start = "2022-09-24"
+description = "Received on the recommendation of the Faculty of Science."
+organization = "University of British Columbia"
+organization_url = "https://www.ubc.ca/"
+url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/general/4445"
+certificate_url = ""
+
+
+[[item]]
 title = "Accenture Leadership Award"
 date_end = ""
 date_start = "2022-05-31"
