@@ -23,6 +23,17 @@ date_format = "January 2006"
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 [[item]]
+title = "Dorothy Gladys Studer Memorial Scholarship"
+date_end = ""
+date_start = "2022-10-18"
+description = 'Received "on the recommendation of the Department of Physics" for being "the student who [obtained] the highest standing in the third year courses in Honours physics and who is proceeding to the final year of the program."'
+organization = "UBC Department of Physics and Astronomy"
+organization_url = "https://phas.ubc.ca/"
+url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/department-physics-astronomy/4355"
+certificate_url = ""
+
+
+[[item]]
 title = "Computer Science Scholarship"
 date_end = ""
 date_start = "2022-10-14"
