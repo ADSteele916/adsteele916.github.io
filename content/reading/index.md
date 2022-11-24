@@ -33,6 +33,6 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *The Letters of J.R.R Tolkien*, edited by Humphrey Carpenter
-* *The First World War: A Complete History*, by Martin Gilbert
-* *Foundation*, by Isaac Asimov
+* *Stress Test: Reflections on Financial Crises*, by Timothy F. Geithner
+* *Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin
+* *Foundation and Empire*, by Isaac Asimov
