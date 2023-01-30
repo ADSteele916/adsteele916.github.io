@@ -21,9 +21,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
+title = "Software Engineer Intern"
+company = "Tesla"
+company_url = "https://www.tesla.com/"
+company_logo = "Tesla_Motors"
+location = "Palo Alto, California"
+date_start = "2022-09-06"
+date_end = "2022-12-16"
+description = """
+  * Designed and implemented SPI drivers for the restraint control module’s (RCM) onboard inertial measurement units (IMUs) in **C**.
+  * Applied knowledge of numerical methods and **C** to implement integral approximations for the RCM crash algorithm’s near-deploy calculations.
+  * Created chip-level software-in-the-loop (SIL) models in **Rust** for the RCM’s onboard IMUs with extensive fault-injection capabilities.
+  * Wrote SIL tests for drivers and crash algorithm using **PyTest**.
+  * Automated hardware-in-the-loop (HIL) test running using **Python** and **C**, reducing test execution time from 5.5 hours to 2 minutes and eliminating need for constant human supervision."""
+[[experience]]
 title = "Numerical Methods Research Assistant"
-company = "University of British Columbia"
+company = "UBC Department of Computer Science"
 company_url = "https://www.cs.ubc.ca/"
+company_logo = "ubc-logo-2018-crest-blue282-pms"
 location = "Vancouver, British Columbia"
 date_start = "2022-05-09"
 date_end = "2022-08-26"
@@ -49,6 +64,7 @@ description = """
 title = "Undergraduate Teaching Assistant"
 company = "University of British Columbia"
 company_url = "https://www.cs.ubc.ca/"
+company_logo = "ubc-logo-2018-crest-blue282-pms"
 location = "Vancouver, British Columbia"
 date_start = "2020-01-09"
 date_end = ""
