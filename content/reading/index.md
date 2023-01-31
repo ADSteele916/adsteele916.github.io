@@ -33,6 +33,6 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *Stress Test: Reflections on Financial Crises*, by Timothy F. Geithner
-* *Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin
-* *Foundation and Empire*, by Isaac Asimov
+* *The End of History and the Last Man*, by Francis Fukuyama
+* *The Pragmatic Programmer*, by Andrew Hunt and David Thomas
+* *Second Foundation*, by Isaac Asimov
