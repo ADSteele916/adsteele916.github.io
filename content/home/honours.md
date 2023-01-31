@@ -45,17 +45,6 @@ certificate_url = ""
 
 
 [[item]]
-title = "Dean and Kitty Toye Scholarship in Science"
-date_end = ""
-date_start = "2022-09-24"
-description = "Received on the recommendation of the Faculty of Science."
-organization = "University of British Columbia"
-organization_url = "https://www.ubc.ca/"
-url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/general/4445"
-certificate_url = ""
-
-
-[[item]]
 title = "Accenture Leadership Award"
 date_end = ""
 date_start = "2022-05-31"
@@ -63,27 +52,6 @@ description = 'Received for "[achieving] high academic standing, [demonstrating]
 organization = "Accenture Inc. (awarded by UBC Department of Computer Science)"
 organization_url = "https://www.accenture.com/ca-en"
 url = "https://www.cs.ubc.ca/award/2022/05/accenture-leadership-award"
-certificate_url = ""
-
-
-[[item]]
-title = "Charles and Jane Banks Scholarship"
-date_end = ""
-date_start = "2021-09-03"
-description = "Received on the recommendation of the Faculty of Science."
-organization = "University of British Columbia"
-organization_url = "https://www.ubc.ca/"
-url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/general/572"
-certificate_url = ""
-
-[[item]]
-title = "J Fred Muir Memorial Scholarship in Science"
-date_end = ""
-date_start = "2020-09-12"
-description = "Received on the recommendation of the Faculty of Science."
-organization = "University of British Columbia"
-organization_url = "https://www.ubc.ca/"
-url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/general/4386"
 certificate_url = ""
 
 [[item]]
