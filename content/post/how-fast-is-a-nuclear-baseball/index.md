@@ -1,5 +1,5 @@
 +++
-title = "How Fast Would One Have To Throw a Baseball in Order To Replicate a Nuclear Blast?"
+title = "How Fast Is a Nuclear Baseball?"
 subtitle = "A Brief Dive Into the Process of Designing and Testing a Fermi Estimation Question for UBC’s Physics Olympics"
 summary = "A Brief Dive Into the Process of Designing and Testing a Fermi Estimation Question for UBC’s Physics Olympics"
 authors = []
