@@ -76,7 +76,6 @@ location = "Vancouver, British Columbia"
 date_start = "2020-01-09"
 date_end = ""
 description = """
-  * Saved months of engineering time at the start of each new competition by leading effort to ensure ground station compatibility across differing rocket hardware platforms.
   * Maintains **Racket** autograder server used by over 800 students to submit and receive feedback on over 1500 files daily.
   * Improves students' engagement by providing personalized feedback using applications developed in **Python** and **Bash**.
   * Detected over 200 cases of academic misconudct by designing, implementing, and deploying novel code-similarity algorithm using **Rust**, **Python**, and **TensorFlow**.
