@@ -26,14 +26,23 @@ company = "Tesla"
 company_url = "https://www.tesla.com/"
 company_logo = "Tesla_Motors"
 location = "Palo Alto, California"
+date_start = "2023-05-15"
+date_end = ""
+description = """
+  * Develops drivers for safety‑critical systems in C."""
+[[experience]]
+title = "Software Engineer Intern"
+company = "Tesla"
+company_url = "https://www.tesla.com/"
+company_logo = "Tesla_Motors"
+location = "Palo Alto, California"
 date_start = "2022-09-06"
 date_end = "2022-12-16"
 description = """
-  * Designed and implemented SPI drivers for the restraint control module’s (RCM) onboard inertial measurement units (IMUs) in **C**.
-  * Applied knowledge of numerical methods and **C** to implement integral approximations for the RCM crash algorithm’s near-deploy calculations.
-  * Created chip-level software-in-the-loop (SIL) models in **Rust** for the RCM’s onboard IMUs with extensive fault-injection capabilities.
-  * Wrote SIL tests for drivers and crash algorithm using **PyTest**.
-  * Automated hardware-in-the-loop (HIL) test running using **Python** and **C**, reducing test execution time from 5.5 hours to 2 minutes and eliminating need for constant human supervision."""
+  * Designed and wrote SPI drivers to control the restraint control module’s (RCM) inertial measurement units (IMUs) in **C**.
+  * Implemented numerical integral approximations for the RCM crash algorithm's near-deploy calculations in **C**.
+  * Created chip-level software-in-the-loop (**SIL**) models for the RCM’s onboard IMUs with extensive fault-injection capabilities in **Rust** and **PyO3** and wrote SIL tests for drivers and crash algorithm using **PyTest**.
+  * Reduced hardware-in-the-loop (**HIL**) test execution time from 5.5 hours to 2 minutes and enabled the addition of the HIL test suite to continuous integration (CI) by automating test running using **Python** and **C**."""
 [[experience]]
 title = "Numerical Methods Research Assistant"
 company = "UBC Department of Computer Science"
@@ -43,8 +52,9 @@ location = "Vancouver, British Columbia"
 date_start = "2022-05-09"
 date_end = "2022-08-26"
 description = """
-  * Developed large-scale simulation software for solving coupled partial differential equations resulting from multiphysics problems using **MATLAB** and **C++**.
-  * Applied knowledge of vector calculus, linear algebra, and physics to optimize the performance of simulations with millions of degrees of freedom."""
+  * Created novel discretization technique for solving ill-conditioned instances of Helmholtz equation in **MATLAB**.
+  * Developed high-performance magnetohydrodynamic finite-element simulation software using **C++** and **Eigen**.
+  * Optimized the performance of simulations with millions of degrees of freedom using knowledge of vector calculus."""
 [[experience]]
 title = "Software Engineer Intern"
 company = "Kepler Communications"
@@ -54,11 +64,8 @@ location = "Toronto, Ontario"
 date_start = "2021-01-04"
 date_end = "2021-08-27"
 description = """
-  * Created drivers for the LCD and keypad on Kepler's next-generation modems using **Python**.
-  * Architected and developed a modular user configuration menu for the modems using my driver.
-  * Designed, implemented, and tested multithreaded systems connecting the next-generation modems' configuration interfaces to Kepler's Global Data Service in **Python** and **Bash**.
-  * Wrote suites of unit and integration tests using **PyTest** with full coverage for all new features.
-  * Refactored and expanded Kepler's **SQL**-based remote deployment system by generalizing software image database to support multiple satellite models with different compatibilities."""
+  * Architected and created drivers and a multithreaded application for the display and keypad on Kepler's next-generation modems using **Python**.
+  * Singlehandedly developed new remote software image deployment system capable of supporting the growing number of models in Kepler's constellation of 19 satellites using **Python** and **SQL**."""
 
 [[experience]]
 title = "Undergraduate Teaching Assistant"
@@ -69,13 +76,11 @@ location = "Vancouver, British Columbia"
 date_start = "2020-01-09"
 date_end = ""
 description = """
-  * TA for CPSC 110: Computation, Programs, and Programming, UBC's major-stream introductory computer science course, for seven academic terms.
-  * Lead TA for internal systems, including the autograder and handin server, since September 2020.
-  * Summer Course Development Assistant in 2020 and 2021.
-  * Coordinates with the professors, course coordinators, and other TAs to ensure that students comprehend course concepts.
-  * Supervises multiple weekly laboratory sections of about 30 students each, in which hands-on learning of the course content is facilitated.
-  * Develops graders, server scripts, and other tools in **Racket**, **Python**, and **Bash** to streamline instructors' workflows and improve students' engagement with the course.
-  * Aided in planning how the course would be taught online during the COVID-19 pandemic."""
+  * Saved months of engineering time at the start of each new competition by leading effort to ensure ground station compatibility across differing rocket hardware platforms.
+  * Maintains **Racket** autograder server used by over 800 students to submit and receive feedback on over 1500 files daily.
+  * Improves students' engagement by providing personalized feedback using applications developed in **Python** and **Bash**.
+  * Detected over 200 cases of academic misconudct by designing, implementing, and deploying novel code-similarity algorithm using **Rust**, **Python**, and **TensorFlow**.
+  * Supervises three other teaching assistants who contribute to the course infrastructure and teaching materials."""
 
 [design]
 columns = "2"

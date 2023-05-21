@@ -31,15 +31,15 @@ link = "https://linkedin.com/in/alexdsteele"
 [[social]]
 icon = "cv"
 icon_pack = "ai"
-link = "uploads/Alex Steele CV.pdf"
+link = "uploads/Alex Steele Resume.pdf"
 
 
 +++
 
 Hello! I'm Alex, a computer science and physics student at the University of British Columbia graduating in 2024. My interests include embedded and application development, machine learning, and numerical methods.
 
-I'm currently a software engineer intern on the passive safety team at Tesla, and the lead teaching assistant for CPSC 110, UBC's major-stream introductory computer science course, where I am responsible for many of our internal systems. In my free time, I contribute to the [UBC Rocket](https://www.ubcrocket.com/) design team as a member of the avionics subteam, enjoy some [light reading](/reading), and work on various [side projects](#projects). I also both help plan and volunteer at [UBC's annual Physics Olympics competition](/post/how-fast-would-one-have-to-throw-a-baseball-to-replicate-a-nuclear-blast/).
+I'm currently a software engineer intern on the crash safety team at Tesla, and the lead teaching assistant for CPSC 110, UBC's major-stream introductory computer science course, where I'm responsible for many of our internal systems. In my free time, I contribute to the [UBC Rocket](https://www.ubcrocket.com/) design team as a senior member of the avionics subteam, enjoy some [light reading](/reading), and work on various [side projects](#projects). I also help plan and volunteer at [UBC's annual Physics Olympics competition](/post/how-fast-would-one-have-to-throw-a-baseball-to-replicate-a-nuclear-blast/).
 
-In the past, I've worked as a software engineer intern at Kepler Communications and a numerical methods research assistant in UBC's Numerical Linear Algebra Lab. 
+In the past, I've worked as a software engineer intern at Kepler Communications and a numerical methods research assistant in UBC's Numerical Linear Algebra Lab.
 
-I'm not currently looking for co-op opportunities, but I am starting to look for new grad roles beginning in May 2024.
+I'm actively looking for new grad roles beginning in May 2024. Please feel free to reach out if you have any opportunities available.
