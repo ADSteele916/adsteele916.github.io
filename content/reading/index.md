@@ -33,6 +33,6 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *The End of History and the Last Man*, by Francis Fukuyama
-* *The Pragmatic Programmer*, by Andrew Hunt and David Thomas
-* *Second Foundation*, by Isaac Asimov
+* *The Count of Monte Cristo*, by Alexandre Dumas
+* *The Stranger*, by Albert Camus, translated by Matthew Ward
+* *The Three-Body Problem*, by Cixin Liu, translated by Ken Liu
