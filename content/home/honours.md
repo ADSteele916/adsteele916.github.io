@@ -25,6 +25,17 @@ date_format = "January 2006"
 [[item]]
 title = "Dorothy Gladys Studer Memorial Scholarship"
 date_end = ""
+date_start = "2023-11-01"
+description = 'Received "on the recommendation of the Department of Physics" for being "the student who [obtained] the highest standing in the third year courses in Honours physics and who is proceeding to the final year of the program."'
+organization = "UBC Department of Physics and Astronomy"
+organization_url = "https://phas.ubc.ca/"
+url = "https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-science/department-physics-astronomy/4355"
+certificate_url = ""
+
+
+[[item]]
+title = "Dorothy Gladys Studer Memorial Scholarship"
+date_end = ""
 date_start = "2022-10-18"
 description = 'Received "on the recommendation of the Department of Physics" for being "the student who [obtained] the highest standing in the third year courses in Honours physics and who is proceeding to the final year of the program."'
 organization = "UBC Department of Physics and Astronomy"
@@ -57,8 +68,8 @@ certificate_url = ""
 [[item]]
 title = "Trek Excellence Scholarship"
 date_end = ""
-date_start = "2022-09-10"
-description = "Received in first, second, and third year for placing in the top 5% of students in my year and faculty."
+date_start = "2022-10-11"
+description = "Received in first, second, third, and fourth year for placing in the top 5% of students in my year and faculty."
 organization = "University of British Columbia"
 organization_url = "https://www.ubc.ca/"
 url = "https://students.ubc.ca/enrolment/finances/awards-scholarships-bursaries/trek-excellence-scholarship"
@@ -67,8 +78,8 @@ certificate_url = ""
 [[item]]
 title = "Science Scholar/Dean's Honour List"
 date_end = ""
-date_start = "2022-05-01"
-description = "Received for maintaining an average of 90% or higher in the 2019, 2020, and 2021 Winter Sessions at the University of British Columbia."
+date_start = "2023-05-01"
+description = "Received for maintaining an average of 90% or higher in the 2019, 2020, 2021, and 2022 Winter Sessions at the University of British Columbia."
 organization = "University of British Columbia"
 organization_url = "https://www.ubc.ca/"
 url = "http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,1458"
