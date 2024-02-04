@@ -33,6 +33,7 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *The Count of Monte Cristo*, by Alexandre Dumas
-* *The Stranger*, by Albert Camus, translated by Matthew Ward
-* *The Three-Body Problem*, by Cixin Liu, translated by Ken Liu
+* *Sand & Steel: A New History of D-Day*, by Peter Caddick-Adams
+* *Second Foundation*, by Isaac Asimov
+* *The Sun Also Rises*, by Ernest Hemingway
+* *Clean Architecture: A Craftsman's Guide to Software Structure and Design*, by Robert C. Martin
