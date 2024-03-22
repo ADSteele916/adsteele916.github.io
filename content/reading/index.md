@@ -33,7 +33,5 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 
 I'm currently reading:
 
-* *Sand & Steel: A New History of D-Day*, by Peter Caddick-Adams
-* *Second Foundation*, by Isaac Asimov
-* *The Sun Also Rises*, by Ernest Hemingway
-* *Clean Architecture: A Craftsman's Guide to Software Structure and Design*, by Robert C. Martin
+* *Snow & Steel: The Battle of the Bulge, 1944--45*, by Peter Caddick-Adams
+* *Death on the Nile*, by Agatha Christie
