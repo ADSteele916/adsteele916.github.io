@@ -45,7 +45,7 @@ notice = "© {year} Alexander Steele."
   allow_commercial = false
 
 [locale]
-date_format = "January 2006"
+date_format = "2006-01-02"
 time_format = "03:04"
 address_format = "en-ca"
 
