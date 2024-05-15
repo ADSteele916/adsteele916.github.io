@@ -1,7 +1,7 @@
  +++
 title = "Category Theory for Fun and Profit"
 subtitle = "or, The Design of `rand-functors`"
-summary = "A dive into the design of my `rand-functors` and discussion of the value of the more \"theoretical\" areas of CS."
+summary = "A dive into the design of my `rand-functors` crate and discussion of the value of the more \"theoretical\" areas of CS."
 authors = []
 tags = ["Academics", "Software Engineering"]
 categories = []
