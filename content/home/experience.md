@@ -26,7 +26,7 @@ company = "Tesla"
 company_url = "https://www.tesla.com/"
 company_logo = "Tesla_Motors"
 location = "Palo Alto, California"
-date_start = "2023-07-08"
+date_start = "2024-07-08"
 date_end = ""
 description = """"""
 [[experience]]
