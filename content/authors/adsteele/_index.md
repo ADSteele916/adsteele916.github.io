@@ -1,9 +1,9 @@
 +++
-bio = "UBC Computer Science and Physics student with interests in machine learning, numerical methods, and software engineering."
+bio = "Physics and Electronics Simulations at Tesla"
 email = ""
 highlight_name = true
 interests = ["Embedded Software", "Reinforcement Learning", "Robotic Motion Control"]
-role = "Combined Honours in Computer Science and Physics"
+role = "Simulation Software Engineer"
 superuser = true
 title = "Alex Steele"
 [education]
@@ -14,7 +14,7 @@ title = "Alex Steele"
 
 
 [[organizations]]
-name = "University of British Columbia"
+name = "Tesla"
 
 [[social]]
 icon = "envelope"
@@ -34,10 +34,10 @@ icon_pack = "ai"
 link = "uploads/Alex Steele Resume.pdf"
 +++
 
-Hello! I'm Alex, a computer science and physics student at the University of British Columbia graduating in May 2024. My interests include embedded and low-level software development, reinforcement learning, and robotic motion control.
+Hello! I'm Alex, a software engineer specializing in embedded and systems programming.
 
-I'm currently working on my Honours Thesis with Michiel van de Panne. I'm also the lead teaching assistant for CPSC 110, UBC’s major-stream introductory computer science course, where I develop plagiarism detection algorithms and lead a team of TAs who work on infrastructure.
+I currently work at Tesla, where I optimize the distributed vehicle simulations that validate the safety of all software rolled out to vehicles. My main professional interest is designing high-performance systems responsible for mission-critical decisions. More concretely, I enjoy working on embedded firmware, high-performance applications, and AI (specifically reinforcement learning) systems. In previous roles, I've written safety-critical firmware for responding to automotive crashes, magnetohydrodynamic simulation software, and a satellite firmware image deployment system.
 
-In my free time, I contribute to the [UBC Rocket](https://www.ubcrocket.com/) design team as a senior member of the avionics subteam, enjoy some [light reading](/reading), and work on various [side projects](#projects). I also help plan and volunteer at [UBC's annual Physics Olympics competition](/post/how-fast-would-one-have-to-throw-a-baseball-to-replicate-a-nuclear-blast/).
+I received my Honours Bachelor of Science in Computer Science and Physics from the University of British Columbia in May 2024. In my final year, I completed my thesis on reinforcement learning for snake-like robots under the supervision of Professor Michiel van de Panne. I was also the lead teaching assistant for CPSC 110, the university's major-stream introductory computer science course, for four years. As part of that role, I developed a high-performance code similarity detection system capable of comparing tens of millions of pairs of assignment submissions, which is now in use across the department.
 
-In the past, I've spent eight months as a crash safety software engineer intern at Tesla, four months as a numerical methods research assistant in UBC's Numerical Linear Algebra Lab, and eight months as a satellite software engineer intern at Kepler Communications.
+Please don't hesitate to reach out if you'd like to chat. The best way to get ahold of me is via email.

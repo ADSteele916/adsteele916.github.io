@@ -21,13 +21,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 [[experience]]
+title = "Software Engineer"
+company = "Tesla"
+company_url = "https://www.tesla.com/"
+company_logo = "Tesla_Motors"
+location = "Palo Alto, California"
+date_start = "2023-07-08"
+date_end = ""
+description = """"""
+[[experience]]
 title = "Software Engineer Intern"
 company = "Tesla"
 company_url = "https://www.tesla.com/"
 company_logo = "Tesla_Motors"
 location = "Palo Alto, California"
 date_start = "2023-05-15"
-date_end = ""
+date_end = "2023-08-25"
 description = """
   * Developed **C** firmware for communication over the vehicle's controller area network, enabling full archival of crash data.
   * Independently discovered and patched allocation inefficiency in **Rust** simulation codebase, improving runtimes by 30%.
@@ -78,12 +87,12 @@ company_url = "https://www.cs.ubc.ca/"
 company_logo = "ubc-logo-2018-crest-blue282-pms"
 location = "Vancouver, British Columbia"
 date_start = "2020-01-09"
-date_end = ""
+date_end = "2024-05-31"
 description = """
-  * Maintains **Racket** autograder server used by over 800 students to submit and receive feedback on over 1500 files daily.
-  * Improves students' engagement by providing personalized feedback using applications developed in **Python** and **Bash**.
+  * Maintained **Racket** autograder server used by over 800 students to submit and receive feedback on over 1500 files daily.
+  * Improved students' engagement by providing personalized feedback using applications developed in **Python** and **Bash**.
   * Detected over 200 cases of academic misconduct by designing, implementing, and deploying novel code-similarity algorithm using **Rust**, **Python**, and **TensorFlow**.
-  * Supervises three other teaching assistants who contribute to the course infrastructure and teaching materials."""
+  * Supervised three other teaching assistants who contribute to the course infrastructure and teaching materials."""
 
 [design]
 columns = "2"
