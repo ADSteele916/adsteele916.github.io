@@ -29,11 +29,6 @@ url = "#contact"
 weight = 100
 
 [[main]]
-name = "Blog"
-url = "/post"
-weight = 200
-
-[[main]]
 name = "Reading"
 url = "/reading"
 weight = 210

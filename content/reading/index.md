@@ -30,8 +30,3 @@ In my free time, I enjoy reading books, primarily (but, by no means, exclusively
 * *The Years of Lyndon Johnson*, by Robert Caro
 * *Becoming*, by Michelle Obama
 * *A Promised Land*, by Barack Obama
-
-I'm currently reading:
-
-* *Snow & Steel: The Battle of the Bulge, 1944--45*, by Peter Caddick-Adams
-* *Death on the Nile*, by Agatha Christie
